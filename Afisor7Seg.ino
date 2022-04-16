@@ -1,4 +1,4 @@
-// C++ code
+
 int A = 2;
 int B = 3;
 int C = 4;
